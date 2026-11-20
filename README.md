@@ -3,9 +3,10 @@
 Privacy policies for my mobile apps, hosted free on GitHub Pages.
 
 | App | Policy URL |
-|-----|-----------|
-| My App | `https://<username>.github.io/app-privacy-policies/my-app/` |
-| DhikrDaily | `https://<username>.github.io/app-privacy-policies/dhikrdaily/` |
+|---|---|
+| My App | `https://alihaider8283.github.io/app-privacy-policies/my-app/` |
+| DhikrDaily | `https://alihaider8283.github.io/app-privacy-policies/dhikrdaily/` |
+| PDFluent: Translate & Learn | `https://alihaider8283.github.io/app-privacy-policies/pdfluent/` |
 
 ## Add a new app
 
@@ -27,6 +28,7 @@ git push -u origin main
 ```
 
 Then on GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch → `main` / `(root)` → Save**.
+
 After a minute or two the site is live at `https://<username>.github.io/app-privacy-policies/`.
 
 ## Preview locally

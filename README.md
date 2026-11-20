@@ -5,6 +5,7 @@ Privacy policies for my mobile apps, hosted free on GitHub Pages.
 | App | Policy URL |
 |-----|-----------|
 | My App | `https://<username>.github.io/app-privacy-policies/my-app/` |
+| DhikrDaily | `https://<username>.github.io/app-privacy-policies/dhikrdaily/` |
 
 ## Add a new app
 
